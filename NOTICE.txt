@@ -1,0 +1,6 @@
+This software includes code from the WhatsApp Contact Manager Extension
+originally written by Willian A. S. D'Amico (https://github.com/Willian1002A/WhatsappBulkSender)
+under the MIT License.
+
+Modifications and additional features (Pro version, payment integration, UI improvements)
+are Copyright (c) 2026 Leong Joel.

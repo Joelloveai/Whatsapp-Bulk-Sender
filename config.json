@@ -1,0 +1,5 @@
+{
+  "whatsappWebUrl": "https://web.whatsapp.com/",
+  "retryTimeout": 6000,
+  "retryMaxTimeout": 10000
+}
