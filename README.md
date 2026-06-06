@@ -21,5 +21,4 @@ Send unlimited personalized WhatsApp messages.
 
 number,name
 551199999999,Joel
-
 551188888888,Maria
